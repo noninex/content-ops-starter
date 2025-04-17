@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Boost Your Sales your sales with AI Generation
+      text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
     text: >
