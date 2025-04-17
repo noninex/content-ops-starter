@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Boost your Sales with AI Lead Generation
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Robotice helps you discover and connect with qualified prospects using
       advanced AI technology. Generate more leads, close more deals, and grow
