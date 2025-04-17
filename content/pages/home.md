@@ -25,7 +25,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/06 Area Chart.jpg
+      url: /images/hero2.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
