@@ -50,7 +50,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Mas ventas
     items:
       - type: FeaturedItem
         title: 7.2x
