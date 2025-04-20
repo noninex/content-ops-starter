@@ -26,6 +26,7 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      url: /images/main-hero.svg
     badge:
       type: Badge
       label: '#roboticed'
