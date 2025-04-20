@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 7.2x
-        subtitle: Faster Prospecting
+        subtitle: Prospección más rápida
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
