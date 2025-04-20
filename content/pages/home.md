@@ -67,6 +67,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/icon1.svg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
