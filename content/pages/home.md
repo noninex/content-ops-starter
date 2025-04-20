@@ -25,7 +25,6 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Start Up Team.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
