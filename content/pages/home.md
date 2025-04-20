@@ -110,7 +110,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Robotice - Contact 3.png
           altText: Placeholder text
           elementId: ''
           styles:
