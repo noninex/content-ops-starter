@@ -272,12 +272,9 @@ sections:
       text: Generación de Leads B2B
       color: text-dark
     subtitle: 'Encuentra a tus clientes ideales, todos los días !'
-    text: >+
-      Identificamos prospectos con intención real de compra y lanzamos campañas
-      personalizadas que generan respuestas y oportunidades reales.
-
-
-
+    text: >
+      Identificamos prospectos con **intención real** de compra y lanzamos
+      campañas personalizadas que generan respuestas y oportunidades **reales**.
     actions:
       - type: Button
         label: Get started
