@@ -55,14 +55,14 @@ sections:
       - type: FeaturedItem
         title: 500M+
         subtitle: Contactos Verificados
-        text: >
-          **Accede a una de las bases de datos B2B más completas y precisas del
-          mercado !**
-
-
-          Robotice cuenta con una red de más de 500 millones de contactos
+        text: >+
+          **Robotice cuenta con una red de más de 500 millones de contactos
           verificados, lo que nos permite encontrar a las personas exactas que
-          toman decisiones en las empresas correctas. 
+          toman decisiones en las empresas correctas.**
+
+
+
+
         image:
           type: ImageBlock
           altText: Placeholder image
