@@ -309,6 +309,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: flex-end
   - type: GenericSection
     title:
       type: TitleBlock
