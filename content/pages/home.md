@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: "Impulsa tus ventas con generación de leads\_ \_ \_ Potenciada por IA"
+      text: "Impulsa tus ventas con generación de Leads\_ \_ \_ Potenciada por IA"
       color: text-dark
     subtitle: ''
     text: >+
