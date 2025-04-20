@@ -15,7 +15,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Book a Call !
         altText: ''
         url: /
         showIcon: false
