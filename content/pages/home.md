@@ -571,7 +571,7 @@ sections:
       type: TitleBlock
       text: Hablemos de cómo escalar tu operacion !
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: No más palabreo. Solo resultados medibles.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
