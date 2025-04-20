@@ -271,7 +271,7 @@ sections:
       type: TitleBlock
       text: Generación de Leads B2B
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'Encuentra a tus clientes ideales, todos los días !'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
