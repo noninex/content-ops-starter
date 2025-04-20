@@ -625,14 +625,6 @@ sections:
       label: Contactanos
       color: text-primary
     colors: bg-light-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
 slug: /home
 seo:
   type: Seo
