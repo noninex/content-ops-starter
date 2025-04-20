@@ -221,7 +221,7 @@ sections:
     subtitle: ''
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Casos de Exito:'
       color: text-dark
   - type: DividerSection
     title: Divider
