@@ -80,7 +80,7 @@ sections:
             borderColor: border-light
       - type: FeaturedItem
         title: 98%
-        subtitle: Data Accuracy
+        subtitle: Precicion de Datos
         text: >+
 
           Nuestros procesos de verificación y enriquecimiento de datos aseguran
