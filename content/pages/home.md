@@ -9,12 +9,9 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      **Impulsa tus ventas con generación de leads potenciada por IA**
-
-
-      Descubre y conecta con prospectos calificados a escala. Robotice utiliza
-      inteligencia artificial avanzada para automatizar tu prospección,
-      personalizar tus mensajes y acelerar tu pipeline.
+      Descubre y conecta con prospectos calificados a escala. **Robotice**
+      utiliza inteligencia artificial avanzada para **automatizar** tu
+      prospección, personalizar tus mensajes y **acelerar tu pipeline.**
     actions:
       - type: Button
         label: Book a Call !
