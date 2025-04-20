@@ -82,7 +82,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
+        title: 7.2x
         subtitle: Your Sales Team
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
