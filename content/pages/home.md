@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500M+
-        subtitle: Verified Contacts
+        subtitle: Contactos Verificados
         text: >
           **Accede a una de las bases de datos B2B más completas y precisas del
           mercado !**
