@@ -50,7 +50,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Mas ventas
+    subtitle: 'Mas ventas, en menos tiempo !'
     items:
       - type: FeaturedItem
         title: 7.2x
