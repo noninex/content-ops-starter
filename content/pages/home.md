@@ -14,7 +14,7 @@ sections:
       prospección, **personalizar** tus mensajes y **acelerar tu pipeline.**
     actions:
       - type: Button
-        label: Book a Call !
+        label: Agenda una Llamada !
         altText: ''
         url: /
         showIcon: false
