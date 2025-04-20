@@ -164,6 +164,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-background.svg
   - type: ImageGallerySection
     subtitle: Award winning enterprises trust us
     images:
