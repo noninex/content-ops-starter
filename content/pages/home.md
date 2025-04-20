@@ -572,11 +572,12 @@ sections:
       text: Hablemos de cómo escalar tu operacion !
       color: text-dark
     subtitle: No más palabreo. Solo resultados medibles.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Cuéntanos brevemente sobre tu negocio y te mostraremos cómo la
+      inteligencia comercial puede generar más oportunidades sin esfuerzo
+      adicional.
+
     actions: []
     media:
       type: FormBlock
