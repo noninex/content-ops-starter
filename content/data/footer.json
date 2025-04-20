@@ -63,7 +63,7 @@
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
-            "icon": "facebook",
+            "icon": "mail",
             "type": "Social"
         },
         {
