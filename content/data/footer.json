@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Deja lo tedioso en nuestras manos !\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,15 +61,9 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "icon": "mail",
             "type": "Social"
         },
         {
@@ -81,8 +75,15 @@
         {
             "altText": "Email link",
             "url": "/",
-            "icon": "mail",
+            "icon": "facebook",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
