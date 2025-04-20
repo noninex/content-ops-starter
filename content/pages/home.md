@@ -198,6 +198,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/case-study-1.md
