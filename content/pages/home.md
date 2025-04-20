@@ -506,7 +506,7 @@ sections:
       - type: FeaturedItem
         title: Detecta intención real
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Llega antes que los demás.
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
