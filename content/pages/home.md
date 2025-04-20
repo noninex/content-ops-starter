@@ -53,36 +53,6 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500M+
-        subtitle: Contactos Verificados
-        text: >+
-          <div style="text-align: center">Lo que nos permite encontrar a las
-          personas Exactas que toman decisiones en las empresas
-          correctas.Nuestros algoritmos identifican, filtran y actualizan esta
-          base continuamente, reduciendo el rebote y asegurando
-          entregabilidad.</div>
-
-        image:
-          type: ImageBlock
-          altText: Placeholder image
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: center
-      - type: FeaturedItem
         title: 7.2x
         subtitle: Faster Prospecting
         text: >-
