@@ -632,6 +632,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-feature2.svg
 slug: /home
 seo:
   type: Seo
