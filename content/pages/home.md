@@ -505,7 +505,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Detecta intención real
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Llega antes que los demás.
         text: >
           Identifica personas con intención de compra ,        No perdemos
