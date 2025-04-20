@@ -482,8 +482,12 @@ sections:
         title: Acciones al instante
         tagline: This is the tagline
         subtitle: Reacciona en el momento exacto.
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          Activa campañas automáticamente cuando un prospecto abre un email,
+          responde o visita tu sitio. Todo sin mover un dedo.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
