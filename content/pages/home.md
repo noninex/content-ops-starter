@@ -218,7 +218,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: Casos de Exito !
+    subtitle: ''
     title:
       type: TitleBlock
       text: This Is A Big Headline
