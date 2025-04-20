@@ -56,9 +56,8 @@ sections:
         title: 500M+
         subtitle: Contactos Verificados
         text: >+
-          <div style="text-align: right">**Robotice cuenta con una red de más de
-          500 millones de contactos verificados, lo que nos permite encontrar a
-          las personas exactas que toman decisiones en las empresas
+          <div style="text-align: left">**Lo que nos permite encontrar a las
+          personas exactas que toman decisiones en las empresas
           correctas.**</div>
 
         image:
