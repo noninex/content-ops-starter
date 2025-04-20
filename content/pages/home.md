@@ -329,7 +329,7 @@ sections:
             - pb-2
             - pl-2
             - pr-2
-          borderColor: border-dark
+          borderColor: border-light
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
