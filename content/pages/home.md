@@ -481,7 +481,7 @@ sections:
       - type: FeaturedItem
         title: Acciones al instante
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Reacciona en el momento exacto.
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
