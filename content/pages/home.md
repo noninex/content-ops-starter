@@ -482,12 +482,9 @@ sections:
         title: Acciones al instante
         tagline: This is the tagline
         subtitle: Reacciona en el momento exacto.
-        text: >+
+        text: >
           Activa campañas automáticamente cuando un prospecto abre un email,
-          responde o visita tu sitio. Todo sin mover un dedo.
-
-
-
+          responde o visita tu sitio.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
