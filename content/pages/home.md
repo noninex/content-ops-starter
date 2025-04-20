@@ -507,10 +507,9 @@ sections:
         title: Detecta intención real
         tagline: This is the tagline
         subtitle: Llega antes que los demás.
-        text: |+
-
-          Identifica personas con intención de compra
-
+        text: >
+          Identifica personas con intención de compra, no perdemos tiempo en
+          convencer a nadie !
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
