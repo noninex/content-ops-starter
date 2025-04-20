@@ -529,7 +529,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Enfoca a tu equipo
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
