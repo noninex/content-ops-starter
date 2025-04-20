@@ -508,8 +508,8 @@ sections:
         tagline: This is the tagline
         subtitle: Llega antes que los demás.
         text: >
-          Identifica personas con intención de compra    No perdemos tiempo en
-          convencer a nadie !
+          Identifica personas con intención de compra         No perdemos tiempo
+          en convencer a nadie !
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
