@@ -45,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Porque Robotice ?
+      text: ¿ Porque Robotice ?
       color: text-dark
       styles:
         self:
