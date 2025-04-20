@@ -89,7 +89,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/Robotice - Analyze Data 6.png
+          url: /images/Robotice - Rectangle.svg
           altText: Placeholder image
           elementId: ''
         actions: []
