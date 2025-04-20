@@ -168,7 +168,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: Nuestros Clientes !
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
