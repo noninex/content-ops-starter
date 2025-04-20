@@ -354,9 +354,13 @@ sections:
       text: Transformación Digital
       color: text-dark
     subtitle: Evoluciona tus procesos comerciales con tecnología inteligente.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Automatiza tareas repetitivas, recorta personal y optimiza tus flujos de
+      trabajo. Convertimos procesos manuales en operaciones eficientes guiadas
+      por IA.
+
+
+
     actions:
       - type: Button
         label: Get started
