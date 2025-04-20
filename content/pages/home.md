@@ -88,7 +88,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Robotice - Be Productive.png
+          url: /images/icon1.svg
           altText: Placeholder image
           elementId: ''
         actions: []
