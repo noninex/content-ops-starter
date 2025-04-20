@@ -83,7 +83,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 7.2x
-        subtitle: Your Sales Team
+        subtitle: Faster Prospecting
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
