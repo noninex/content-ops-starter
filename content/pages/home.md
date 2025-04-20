@@ -19,7 +19,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: chevronLeft
         iconPosition: right
         style: secondary
         elementId: ''
