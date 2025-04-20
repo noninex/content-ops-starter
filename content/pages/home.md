@@ -531,7 +531,7 @@ sections:
       - type: FeaturedItem
         title: Enfoca a tu equipo
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Elimina el trabajo innecesario.
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
