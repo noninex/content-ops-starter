@@ -311,11 +311,19 @@ sections:
         self:
           textAlign: left
     subtitle: Conecta tus herramientas y acelera tus procesos.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Creamos flujos de trabajo personalizados que reaccionan en tiempo real: si
+      un prospecto responde, se crea una tarea en tu CRM, se notifica a tu
+      equipo y se inicia el seguimiento automáticamente.
+
+
+      Todo esto sin fricciones, sin desarrolladores, y con la flexibilidad de
+      escalar o ajustar cuando quieras.
+
+
+      Con Robotice, tus procesos funcionan 24/7, incluso cuando tu equipo no
+      está conectado.
+
     actions: []
     media:
       type: VideoBlock
