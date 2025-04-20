@@ -87,7 +87,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/Robotice - Analyze Data 6.png
           altText: Placeholder image
           elementId: ''
         actions: []
