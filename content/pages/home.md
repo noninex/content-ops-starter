@@ -8,11 +8,13 @@ sections:
       text: "Impulsa tus ventas con generación de Leads\_ \_ \_ Potenciada por IA"
       color: text-dark
     subtitle: ''
-    text: >+
-      Robotice helps you discover and connect with qualified prospects using
-      advanced AI technology. Generate more leads, close more deals, and grow
-      your business faster.
+    text: >
+      **Impulsa tus ventas con generación de leads potenciada por IA**
 
+
+      Descubre y conecta con prospectos calificados a escala. Robotice utiliza
+      inteligencia artificial avanzada para automatizar tu prospección,
+      personalizar tus mensajes y acelerar tu pipeline.
     actions:
       - type: Button
         label: Book a Call !
