@@ -77,6 +77,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: 98%
         subtitle: Data Accuracy
