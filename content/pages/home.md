@@ -57,10 +57,10 @@ sections:
         subtitle: Contactos Verificados
         text: >+
           <div style="text-align: left">Lo que nos permite encontrar a las
-          personas Exactas que toman decisiones en las empresas correctas.
-          Nuestros algoritmos identifican, filtran y actualizan esta base
-          continuamente, reduciendo el rebote y asegurando entregabilidad.
-
+          personas Exactas que toman decisiones en las empresas
+          correctas.Nuestros algoritmos identifican, filtran y actualizan esta
+          base continuamente, reduciendo el rebote y asegurando
+          entregabilidad.</div>
 
 
           </div>
