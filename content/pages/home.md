@@ -341,7 +341,7 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: flex-start
+        justifyContent: center
       subtitle:
         textAlign: left
   - type: GenericSection
