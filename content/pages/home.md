@@ -353,7 +353,7 @@ sections:
       type: TitleBlock
       text: Transformación Digital
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Evoluciona tus procesos comerciales con tecnología inteligente.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
