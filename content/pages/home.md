@@ -320,10 +320,6 @@ sections:
       Todo esto sin fricciones, sin desarrolladores, y con la flexibilidad de
       escalar o ajustar cuando quieras.
 
-
-      Con Robotice, tus procesos funcionan 24/7, incluso cuando tu equipo no
-      está conectado.
-
     actions: []
     media:
       type: VideoBlock
