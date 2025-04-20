@@ -26,7 +26,7 @@ sections:
       type: ImageBlock
       altText: Unblock your team boost your time to production preview
       elementId: ''
-      url: /images/Robotice - Sharing Ideas.png
+      url: /images/Robotice - Be Productive.png
     badge:
       type: Badge
       label: '#roboticed'
