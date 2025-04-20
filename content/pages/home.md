@@ -62,7 +62,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Start Up Team.png
           altText: Placeholder image
           elementId: ''
           styles:
