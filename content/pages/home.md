@@ -530,7 +530,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Enfoca a tu equipo
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Elimina el trabajo innecesario.
         text: >
           Automatiza tareas operativas y permite que tu equipo se dedique a lo
