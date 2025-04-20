@@ -81,10 +81,12 @@ sections:
       - type: FeaturedItem
         title: 98%
         subtitle: Data Accuracy
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Nuestros procesos de verificación y enriquecimiento de datos aseguran
+          que cada contacto tenga información actualizada, roles reales y
+          señales de intención válidas. 
+
         image:
           type: ImageBlock
           url: /images/Robotice - Analyze Data 6.png
