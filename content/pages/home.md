@@ -480,7 +480,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Acciones al instante
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Reacciona en el momento exacto.
         text: >
           Activa campañas automáticamente cuando un prospecto abre un email,
