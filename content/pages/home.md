@@ -569,7 +569,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Hablemos de cómo escalar tu operacion !
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
