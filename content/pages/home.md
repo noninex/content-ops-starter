@@ -272,9 +272,12 @@ sections:
       text: Generación de Leads B2B
       color: text-dark
     subtitle: 'Encuentra a tus clientes ideales, todos los días !'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Identificamos prospectos con intención real de compra y lanzamos campañas
+      personalizadas que generan respuestas y oportunidades reales.
+
+
+
     actions:
       - type: Button
         label: Get started
