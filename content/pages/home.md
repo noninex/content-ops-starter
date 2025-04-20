@@ -532,8 +532,11 @@ sections:
         title: Enfoca a tu equipo
         tagline: This is the tagline
         subtitle: Elimina el trabajo innecesario.
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+
+          Automatiza tareas operativas y permite que tu equipo se dedique a lo
+          que realmente genera resultados: vender.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
