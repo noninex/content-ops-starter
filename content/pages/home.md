@@ -21,7 +21,7 @@ sections:
         showIcon: false
         icon: chevronLeft
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     media:
       type: ImageBlock
