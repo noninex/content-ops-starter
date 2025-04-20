@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Boost your Sales with AI Lead Generation
+      text: Impulsa tus ventas con generación de leads potenciada por IA
       color: text-dark
     subtitle: ''
     text: >+
