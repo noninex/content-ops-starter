@@ -55,10 +55,14 @@ sections:
       - type: FeaturedItem
         title: 7.2x
         subtitle: Prospección más rápida
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Automatizamos lo que tu equipo haría en semanas, en solo días.
+
+
+          Gracias a nuestros flujos inteligentes y campañas activadas por
+          comportamiento, nuestros clientes experimentan una prospección hasta
+          7.2 veces más rápida que los métodos tradicionales.
+
         image:
           type: ImageBlock
           url: /images/Start Up Team.png
