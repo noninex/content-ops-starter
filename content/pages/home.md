@@ -487,7 +487,7 @@ sections:
           responde o visita tu sitio.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Robotice - Be Productive.png
           altText: Placholder image
           styles:
             self:
