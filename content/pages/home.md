@@ -507,8 +507,10 @@ sections:
         title: Detecta intención real
         tagline: This is the tagline
         subtitle: Llega antes que los demás.
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |+
+
+          Identifica personas con intención de compra
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
