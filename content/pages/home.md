@@ -11,7 +11,7 @@ sections:
     text: >
       Descubre y conecta con prospectos calificados a escala. **Robotice**
       utiliza inteligencia artificial avanzada para **automatizar** tu
-      prospección, personalizar tus mensajes y **acelerar tu pipeline.**
+      prospección, **personalizar** tus mensajes y **acelerar tu pipeline.**
     actions:
       - type: Button
         label: Book a Call !
