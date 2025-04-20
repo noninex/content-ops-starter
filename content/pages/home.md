@@ -487,7 +487,7 @@ sections:
           responde o visita tu sitio.
         image:
           type: ImageBlock
-          url: /images/Robotice - Hero Illustration.png
+          url: /images/abstract-feature3.svg
           altText: Placholder image
           styles:
             self:
