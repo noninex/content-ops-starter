@@ -56,14 +56,11 @@ sections:
         title: 500M+
         subtitle: Contactos Verificados
         text: >+
-          <div style="text-align: left">Lo que nos permite encontrar a las
+          <div style="text-align: center">Lo que nos permite encontrar a las
           personas Exactas que toman decisiones en las empresas
           correctas.Nuestros algoritmos identifican, filtran y actualizan esta
           base continuamente, reduciendo el rebote y asegurando
           entregabilidad.</div>
-
-
-          </div>
 
         image:
           type: ImageBlock
