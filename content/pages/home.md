@@ -45,7 +45,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Porque Robotice ?
       color: text-dark
       styles:
         self:
